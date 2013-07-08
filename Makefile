@@ -7,7 +7,7 @@ LDFLAGS = -static -Llib -lim -lcdcontextplus -lcd -lfreetype6 -lz -lgdi32 -lcomd
 		  -luuid -lole32 -loleaut32 -limm32 \
 		  -lsnmpapi -lWinspool  -lopengl32 -lmsvcrt -lstdc++ -lgdiplus -lws2_32
 
-TARG=iupaio.dll
+TARG=iup-aio.dll
 
 SOURCE = $(wildcard src/*.c)  
 CPPSOURCE = $(wildcard src/*.cpp) 
