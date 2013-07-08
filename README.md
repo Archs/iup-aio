@@ -2,6 +2,8 @@
 
 iup-aio aims the be an all-in-one dll for using [IUP][] in Windows.
 
+*Attention* : Currently no support for iuptuio and iupwebbrowser in Windows.
+
 ----
 
 *[IUP][]* is good for light weight cross platform GUI development.
