@@ -13,6 +13,8 @@
 #include <iupkey.h>
 #include <iupdef.h>
 
+#include <basetyps.h>
+
 #ifdef __cplusplus
 extern "C" {
 #endif

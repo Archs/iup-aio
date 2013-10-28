@@ -7,6 +7,8 @@
 #include <windows.h>
 #include <uxtheme.h>
 
+#include <basetyps.h>
+
 #if (_MSC_VER >= 1700)  /* Visual C++ 11.0 ( Visual Studio 2012) */
 #include <vssym32.h>
 #else

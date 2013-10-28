@@ -5,6 +5,7 @@
  */
 #include <windows.h>
 #include <commctrl.h>
+#include <mmsystem.h>
 
 #include <stdio.h>              
 #include <stdlib.h>

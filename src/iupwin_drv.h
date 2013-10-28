@@ -7,6 +7,8 @@
 #ifndef __IUPWIN_DRV_H 
 #define __IUPWIN_DRV_H
 
+#include <shellapi.h>
+
 #ifdef __cplusplus
 extern "C" {
 #endif
